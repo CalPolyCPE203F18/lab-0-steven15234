@@ -6,7 +6,7 @@ def main():
     
    # printing the variables
    print('x:', x, 'y:', y, 'z:', z)
-   
+
    # a list (make an array in java)
    nums = [3, 6, -1, 2]
    for num in nums:
